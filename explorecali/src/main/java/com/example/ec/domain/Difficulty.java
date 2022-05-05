@@ -1,4 +1,5 @@
 package com.example.ec.domain;
 
-public class Difficulty {
+public enum Difficulty {
+    Easy, Medium, Difficult, Varies;
 }
